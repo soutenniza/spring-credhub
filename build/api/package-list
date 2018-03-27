@@ -1,0 +1,15 @@
+org.springframework.credhub.autoconfig
+org.springframework.credhub.autoconfig.security
+org.springframework.credhub.cloud
+org.springframework.credhub.configuration
+org.springframework.credhub.core
+org.springframework.credhub.support
+org.springframework.credhub.support.certificate
+org.springframework.credhub.support.json
+org.springframework.credhub.support.password
+org.springframework.credhub.support.permissions
+org.springframework.credhub.support.rsa
+org.springframework.credhub.support.ssh
+org.springframework.credhub.support.user
+org.springframework.credhub.support.utils
+org.springframework.credhub.support.value
